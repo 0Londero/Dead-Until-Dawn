@@ -1,0 +1,8 @@
+* Para abrir o editor pyxel utiliza-se = pyxel edit art.pyxres
+
+* Esc = Encerra a aplicação
+* Alt(Option)+1 = Salva uma captura de tela para a área de trabalho
+* Alt(Option)+2 = Reinicia o momento inicial do vídeo de captura de tela.
+* Alt(Option)+3 = Salva um vídeo de captura de tela na área de trabalho (até 10 segundos)
+* Alt(Option)+0 = Ativa/desativa o monitor de performance (fps, tempo de update e tempo de draw)
+* Alt(Option)+Enter = Ativa/desativa tela cheia
