@@ -7,7 +7,7 @@ from obstaculos import Colision
 
 INICIO = 0
 JOGAR = 1 
-
+#Classe Principal 
 class DeadUntilDawn:
     def __init__(self):
         #Resolução e nome da janela

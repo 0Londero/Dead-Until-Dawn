@@ -46,7 +46,7 @@ class player:
     
     def exception(self):
         try:
-            assert (self.y == 90) # Ápice do pulo, jogador está no alto
+            assert (self.y == 90) # Jogador correndo por conta da posição inicial 
         except AssertionError:
             print ("Exceção Assertion, Jogador está pulando")
         else:
